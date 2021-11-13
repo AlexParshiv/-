@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 noslogno
+=======
+no tu no
+>>>>>>> master
